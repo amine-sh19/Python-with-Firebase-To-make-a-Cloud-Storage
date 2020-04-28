@@ -1,0 +1,4 @@
+- pip install --upgrade setuptools
+- pip install python-firebase  
+- pip3 install pyrebase4 
+- pip install pycryptodome 
