@@ -1,8 +1,1 @@
-    apiKey: "AIzaSyBQmTXQnw947h4SOodFc-SqtFUL2QrZ_pg",
-    authDomain: "amine-b54c8.firebaseapp.com",
-    databaseURL: "https://amine-b54c8.firebaseio.com",
-    projectId: "amine-b54c8",
-    storageBucket: "amine-b54c8.appspot.com",
-    messagingSenderId: "925596145007",
-    appId: "1:925596145007:web:e4f168a2f0eb325527c49a",
-    measurementId: "G-MTWHCJMKVL"
+paste you code configuration here please
